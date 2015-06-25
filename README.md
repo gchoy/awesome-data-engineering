@@ -71,6 +71,8 @@ List of content
 * [Spark Streaming](https://spark.apache.org/streaming/) Spark Streaming makes it easy to build scalable fault-tolerant streaming applications.
 * [Apache Flink](https://flink.apache.org/) Apache Flink is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams.
 * [Apache Storm](https://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system
+	* [Pyleus](https://yelp.github.io/pyleus/index.html)   Pyleus is a Python framework for developing and launching Storm topologies.
+	* [Parsely](https://github.com/Parsely/streamparse)Streamparse lets you run Python code against real-time streams of data with Apache Storm. 
 * [Apache Samza](https://samza.apache.org) Apache Samza is a distributed stream processing framework
 * [Apache NiFi](https://nifi.incubator.apache.org) is an easy to use, powerful, and reliable system to process and distribute data
 
